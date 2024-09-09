@@ -1,18 +1,24 @@
-# React The Almost Final Countdown
+# React-The-Almost-Final-Countdown
 
-This project is a React application that features a timer that stops once you estimate that time is (almost) up. It's designed to help you track time effectively and manage your tasks better.
+The Almost Final Countdown
+
+Stop the timer once you estimate that time is (almost) up.
 
 ## Features
 
-- Simple timer functionality
-- User-friendly interface
-- React components for dynamic updates
+- Timer functionality with estimation
+- React-based user interface
+- Simple and intuitive design
+
+## Screenshot
+
+![Screenshot](https://github.com/macettiandrea/React-The-Almost-Final-Countdown/blob/main/screenshots/Screenshot.png)
 
 ## Dependencies
 
 - **Node.js**: This project requires Node.js to be installed. You can download and install Node.js from [here](https://nodejs.org/).
 - **React**: The app is built with React.
-- **Vite**: The build tool used for this project.
+- **Vite**: The project uses Vite as the build tool.
 
 ## Installing Dependencies
 
@@ -44,16 +50,10 @@ This project is a React application that features a timer that stops once you es
 
 The page will automatically reload if you make edits to the code. You will also see any errors or warnings in the console.
 
-## Screenshots
-
-![Screenshot](https://github.com/macettiandrea/React-The-Almost-Final-Countdown/blob/main/Screenshot/Screenshot.png)
-
 ## Known Bugs
 
 - No known bugs at the moment.
 
 ## Future Improvements
 
-- Add more features to the timer.
-- Enhance the user interface for better usability.
-# React-The-Almost-Final-Countdown
+- Add additional features or enhancements based on user feedback.
